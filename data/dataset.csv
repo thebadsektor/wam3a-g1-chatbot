@@ -1,0 +1,561 @@
+HumanSays:,RobotSays:
+HumanSays:,RobotSays:
+What time is it?,getTIME
+What time do you have?,getTIME
+Got the time?,getTIME
+When is it?,getTIME
+What day is it?,getDATE
+What is the date?,getDATE
+Do you know what time it is?,getTIME
+Do you have the time,getTIME
+IDKnull,I don't know.
+IDKnull,I'll need to take some time to think on that.
+IDKnull,Can you try rephrasing that please?
+IDKnull,I'm not sure about that.
+IDKnull,Is there a different way you can ask that?
+IDKnull,I don't have a response for that.
+IDKnull,I will have to give that some thought.
+IDKnull,I don't really know what you are asking.
+IDKnull,There are some things I just don't know about yet.
+IDKnull,I'm not an expert on that.
+IDKnull,I could not tell you.
+Nothing,What?
+Nothing,I think you hit the wrong key...
+Nothing,What did you want to ask?
+Nothing,Let's talk about something.
+Nothing,One more time?
+Who are you?,I am a ChatBot.
+Who are you?,I am a Python powered ChatBot.
+Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.
+Hello,Hello World!
+Hi,Hello World!
+Greetings,Hello World!
+Hey,Hello World!
+What's up?,Hello World!
+Who are you?,I am a Chatbot.
+What is your name?,ChatBot.
+1 + 1?,2
+add one to one,two
+"What motivated you to pursue a degree in Information Technology, and which specific fields within this domain fascinate you the most?",
+What prior exposure or understanding do you possess in computer programming or information technology?,
+What is your whole/full name?,Jobert Trilliana
+What is your whole/full name?,Reyvine Adellan
+What is your whole/full name?,Justine Jay Olivar
+"As an IT scholar, what are your objectives and anticipations for the initial year?",Enjoyment
+What your 1st Choice course?,Bachelor of Science in Information Technology
+What your 1st Choice course?,Bachelor of Science in Computer Science
+What your 1st Choice course?,Bachelor Of Science in Criminal Justice
+What is your preferred name or nickname?,Bert
+What is your preferred name or nickname?,Vine
+What is your preferred name or nickname?,Kian
+What is your date of birth?,"November 1, 2023"
+What is your gender/ gender preference?,Male
+What is your gender/ gender preference?,Female
+What is your gender/ gender preference?,Bisexual
+What is your address?,Santa Cruz Laguna
+What is your email address?,Trilliana@gmail.com
+What is your phone number?,0923-2132-342
+What is your citizenship status?,Single
+What is your citizenship status?,Marriage
+Are you a transfer student or a freshman?,No
+"Have you previously attended any other colleges or universities? If yes, please provide the details.","Yes, University of the Philippines"
+What is your intended major or field of study?,Field of Medicine
+What are your academic and career goals?,Masteral or PHD
+Do you have any disabilities or health conditions that may require accommodations?,Vision disabilities or MALABO MATA
+Have you received any honors or awards during your high school/ Senior High years?,Yes
+"Did you participate in any extracurricular activities or clubs in high school/senior high school? If yes, please provide details.","Yes, in Supreme Student Government of SGO in senior high"
+"Have you been involved in any community service or volunteer work? If yes, please provide details.","Yes, Clean Drive or Community Cleaning"
+Have you participated in any internships or work experiences related to your intended major?,Yes
+Do you have any special talents or skills that you would like to share?,"Yes, Singing!"
+Are you interested in participating in any specific sports or athletic programs?,Yes
+Are you planning to live within the campus or commute to the university?,No
+"Have you applied for financial aid or scholarships? If yes, please provide details.","Yes, TES, TDP and Gov Scholar"
+Are you planning to be a working student?,Yes
+Is there anything else you would like to share or ask regarding your enrollment process or procedure?,No
+What have you read recently that has impacted or changed how you see the world? ,When I was highschool and attend leadership program
+Describe a time when you had to work as part of a team?,I will initiate the tasks that assign by the facilitator in a group
+"If you won the lottery,What would you do with the money?","Donate the 25% in the chairty if I win 1M $
+"
+Who do you consider a role model in your personal life?,"No because other person who has a greater talent on me deserves to be a role model 
+"
+"What makes you different from other students at this school? ","I’m quiet and active in recitation 
+"
+"Describe a time when you stepped up as a leader? ","Be an initiative person and must have a determination as a leader and have a good attitude"
+"What does being successful mean to you? ","To be successful you must have knowledge and a great acheivements
+"
+"Can you describe a challenge that you overcame? 
+","I think Personal Loss ,Coping with the loss of a loved one, such as a family member, friend, or anything can
+be emotionally devastating.Grieving and finding ways to heal and move forward is a significant challenge"
+"What do you do for fun in your free time?
+","Playing RPG games and other mobile games, repairing gadgets."
+What are three adjectives to best describe you?,"Compassionate, Ambitious,Diligent"
+"Why are you interested in pursuing your major? ","Because in this course BS Information Technology major in Web application development IT helps to provide
+a platform for individuals to express the creativity through designing and building interactive and visually
+appealing websites and applications. "
+"What skills do you expect to develop through your degree program? ",C# Python Html
+"Do you plan to continue your education? ","Ofcourse yes because Education provides individuals with knowledge and skills that are essential for personal
+and professional development"
+"What career fields interest you? ",IT Project Manager
+"Will you seek financial aid? ",no
+"What are your plans after you graduate college? ","To have a stable job and help my family.
+"
+"Where do you hope to be career-wise in 10 years?
+","In USA, because IT jobs in USA are in high demand.
+"
+"What are some academic goals you hope to accomplish in college? "," Master essential skills because in college they provides an excellent opportunity to acquire and develop"
+"What skills do you hope to develop in college? ",Programing
+Do you plan to participate in activities outside ,
+How can I ensure my child's safety on campus?,"Universities have dedicated security measures in place, such as surveillance systems, campus police, and emergency response protocols. Additionally, counseling services are available to support students' mental well-being."
+What are the housing options available for students?,Most universities offer on-campus dormitories or apartments for students to live in. These accommodations are typically supervised and provide a supportive community. Some universities also have partnerships with nearby off-campus housing providers.
+What financial aid opportunities are available for students?,"Universities often provide various financial aid options, including scholarships, grants, work-study programs, and student loans. Students can explore these options by contacting the university's financial aid office and completing the necessary application forms."
+What academic programs and majors does the university offer?,"he university offers a wide range of academic programs across different disciplines. These can include engineering, business, humanities, sciences, arts, and more. It's important to research the university's website or contact the admissions office for specific program details."
+What extracurricular activities and clubs are available on campus?,"Universities offer a wide array of extracurricular activities and clubs to cater to students' interests. These can include sports teams, cultural organizations, academic clubs, music ensembles, student government, and more. The university's website or student affairs office can provide details on specific clubs available."
+What support services are in place to assist students with their studies?,"Universities typically have writing labs, and academic advisors who can provide guidance and support to students. Additionally, professors often have office hours where students can seek additional help or clarification on course material."
+How does the university promote a diverse and inclusive campus environment?,"Universities strive to create a welcoming and inclusive campus environment through various initiatives. These can include diversity training, cultural awareness programs, student organizations focused on underrepresented groups, and inclusive policies. The university's diversity office or student affairs department can provide more information."
+What research opportunities are available for undergraduate students?,"Many universities encourage undergraduate research by providing funding, mentorship programs, and opportunities to collaborate with faculty on research projects. Research centers, institutes, and faculty members within specific departments can offer more information on research opportunities available."
+What is the academic reputation of the university?,The university has a strong academic reputation and is well-regarded for its high-quality education and faculty expertise. It has consistently ranked among the top universities in various national rankings.
+Are the faculty members highly qualified and experienced?,"Yes, the university prides itself on having a dedicated and accomplished faculty. Many professors hold advanced degrees in their fields, have extensive research experience, and are actively involved in academic and professional communities."
+How successful are graduates from this university?,"Graduates from this university have achieved significant success in their respective fields. Many alumni have gone on to pursue advanced degrees or have secured prestigious positions in industry, government, and academia.
+
+"
+How challenging are the academic programs at the university?,The academic programs at the university are known for their rigor and depth. They are designed to provide a comprehensive education and prepare students for successful careers or further studies in their chosen fields.
+Are there opportunities for undergraduate research or independent study?,"Yes, the university encourages undergraduate research and offers opportunities for students to engage in hands-on research projects under the guidance of faculty members. These experiences provide valuable practical skills and contribute to personal and academic growth."
+ Do students have access to state-of-the-art facilities and resources?,"Absolutely. The university invests in modern facilities, well-equipped laboratories, libraries with extensive research materials, and advanced technology resources to support students' academic pursuits."
+What distinguishes the university's academic programs from other institutions?,"The university takes pride in its interdisciplinary approach to education, blending theoretical knowledge with practical application. It offers unique opportunities for students to engage in experiential learning, industry partnerships, and research collaborations."
+How does the university support faculty professional development?,"The university values ongoing professional development for its faculty members. It provides resources for attending conferences, conducting research, and participating in training programs to enhance teaching methods and stay at the forefront of their respective fields."
+Can you provide examples of notable research contributions by faculty members?,"Many faculty members have made significant research contributions in their areas of expertise. Their work had real-world impacts, addressing pressing societal issues and advancing knowledge in their fields."
+Are the academic programs well-established and reputable?,"Yes, the university's academic programs are well-established and reputable. They have a history of delivering quality education and preparing students for successful careers or further studies in their respective fields."
+Are there opportunities for interdisciplinary study or double majors?,The university encourages interdisciplinary study and offers flexibility for students to pursue double majors or minor programs. This allows students to explore diverse interests and develop a well-rounded skill set.
+What specific majors or concentrations are available within my area of interest?,The university offers a range of majors and concentrations within various disciplines. Students can explore specific areas of interest and choose programs that align with their career goals and passions.
+"Are there opportunities for experiential learning, internships, or cooperative education?","Yes, the university provides opportunities for experiential learning, internships, and cooperative education programs. These experiences allow students to gain practical, real-world skills and build connections within their chosen industries."
+Can I customize my academic program or pursue independent study?,Many universities offer the option to customize academic programs through electives or independent study projects. This allows students to tailor their education to their specific interests and goals.
+What unique features or specializations does the university's academic programs offer?,"The university's academic programs offer unique features and specializations that set them apart. These can include cutting-edge research initiatives, industry partnerships, specific methodologies, or interdisciplinary approaches."
+How does the university support research opportunities for students within their programs?,"The university is committed to fostering a culture of research and provides resources and support for students to engage in research projects within their academic programs. This includes faculty mentorship, access to research facilities, and funding opportunities."
+Can you provide examples of successful alumni from specific academic programs?,"Many alumni from the university's academic programs have achieved remarkable success in their respective fields. They have secured prominent positions in industry, government, academia, or have made significant contributions through entrepreneurial endeavors."
+What financial aid options are available for students at the university?,"The university offers various financial aid options, including scholarships, grants, work-study programs, and student loans. These options are designed to assist students in managing the cost of tuition and other educational expenses."
+How can my child apply for scholarships or grants?,"Students can apply for scholarships and grants through the university's financial aid office. The office can provide information on the specific application process, eligibility criteria, and deadlines."
+Are there any merit-based scholarships available?,"Yes, the university offers merit-based scholarships that recognize and reward exceptional academic achievements, leadership qualities, or specific talents. Students can inquire with the financial aid office for more information."
+What types of scholarships or financial aid programs are available for undergraduate students?,"The university provides various scholarships and financial aid programs specifically for undergraduate students. These can include academic scholarships, need-based grants, talent-based awards, and more. Students should contact the financial aid office for details on eligibility and application procedures."
+Are there opportunities for work-study programs on campus?,"Yes, the university offers work-study programs that allow students to work part-time on campus while pursuing their studies. These programs provide financial assistance and valuable work experience."
+How does the university assist students in applying for external scholarships?,"The university's financial aid office can provide resources and guidance on external scholarship opportunities. They may offer workshops, online databases, and assistance with scholarship applications to help students maximize their chances of receiving external funding."
+What resources does the university provide to help students with financial planning?,"The university's financial aid office provides resources and counseling services to assist students in financial planning. They can help students understand the costs associated with attending the university, explore available financial aid options, and create a comprehensive financial plan."
+Are there any unique scholarships or funding opportunities specific to certain academic programs?,Some academic programs within the university may offer unique scholarships or funding opportunities tailored to their students' specific needs. Students can inquire within their respective departments or with the financial aid office for information on program-specific scholarships.
+How does the university support students in managing student loan debt?,"The university offers financial literacy programs and counseling services to educate students about responsible borrowing and managing student loan debt. They can provide information on loan repayment options, loan forgiveness programs, and financial planning resources."
+How do teachers integrate technology into their teaching methods to enhance the learning experience?,"By incorporating digital information, online learning platforms, multimedia presentations, and collaborative tools into their lesson plans, teachers may improve student learning."
+How does the school ensure a supportive and inclusive learning environment for students?,"Through the promotion of respect, diversity, and the provision of tools for both academic and personal assistance, the school guarantees that all children may study in an accepting and inclusive atmosphere."
+How does the school incorporate blended learning strategies to enhance the educational experience for students?,"At our school, blended learning blends in-person instruction with online exercises to provide a flexible and individualized learning environment. It promotes active involvement, teamwork, and makes use of technology to improve students' educational experiences."
+Can you tell us more about the teaching methods and approaches used by the teachers ?,"Our teachers utilize a variety of teaching methods and approaches, including lectures, discussions, hands-on activities, group work, and active learning strategies, to engage students and foster meaningful learning experiences."
+What sports programs and opportunities are available for students at our school?,"Students at our school have access to a variety of sports activities and opportunities. We have teams that compete in intercampus competition in sports.  For students who are interested in sports at different levels, we also provide intramural sports, club sports, and leisure activities. Through our extensive sports program, we hope to encourage physical fitness, teamwork, and a healthy lifestyle."
+What support services are available for students who may need additional academic assistance or tutoring?,"We provide support services such as tutoring, academic advising, writing centers, and mentoring programs to assist students who may need additional academic assistance."
+Are there any specific admission requirements or prerequisites for enrolling as a freshman?,"Yes, there may be specific admission requirements for enrolling as a freshman, such as submitting high school transcripts, standardized test scores, and completing an application form. However, the exact requirements can vary depending on the program of study."
+How can I access healthcare services or counseling resources as a freshman student? ,"As a freshman student, you can access healthcare services and counseling resources through the school's clinic. These facilities are typically available on campus and provide a range of services, including medical care, mental health counseling, and support for student well-being."
+Can I take a campus tour before enrolling as a freshman?,"Yes, you can typically take a campus tour before enrolling as a freshman. The school offers campus tours to prospective students, allowing them to explore the campus facilities, learn about the campus culture, and get a sense of the overall environment."
+What campus facilities and amenities are accessible to freshman students?,"Freshman students have access to a wide range of campus facilities and amenities, including libraries, computer labs, recreational centers, sports facilities, dining halls, academic advising centers, student health services, counseling centers, and various student organizations and clubs."
+When should I start the college enrollment process?,It's recommended to start the process during your junior year of high school.
+How do I choose the right college or university?,"Research and consider factors like academic programs, campus culture, location, size, cost, and opportunities for your desired career path."
+What are the admission requirements for colleges?,"Admission requirements vary but typically include high school transcripts, standardized test scores (such as the SAT or ACT), letters of recommendation, and a personal statement or essay."
+What standardized tests are required for college admission?,"The most common standardized tests for college admission are the SAT and ACT. However, some colleges may have test-optional policies."
+How do I apply for financial aid and scholarships?,"Complete the Free Application for Federal Student Aid (FAFSA) to apply for federal aid. Research and apply for scholarships through various sources like colleges, organizations, and online databases."
+What is the Free Application for Federal Student Aid (FAFSA)?,"The FAFSA is a form that determines your eligibility for federal financial aid programs, such as grants, loans, and work-study opportunities."
+"What is the CSS Profile, and when is it required?",The CSS Profile is an additional financial aid application required by some colleges and universities to gather more detailed information about your finances. It is used to determine eligibility for non-federal financial aid.
+What documents do I need for the college application process?,"Commonly required documents include high school transcripts, standardized test scores, letters of recommendation, a personal statement or essay, and any supplemental materials specific to the college."
+How do I request recommendation letters?,"Approach teachers, counselors, or mentors who know you well and can speak to your abilities and character. Request letters politely, providing them with necessary information and deadlines."
+Can I apply to multiple colleges at once?,"Yes, you can apply to multiple colleges simultaneously using their respective application processes"
+"What is early decision/early action, and should I consider it?","Early decision is a binding agreement, while early action is non-binding. Both allow you to apply earlier than the regular deadline. Consider early options if you have a strong preference for a particular college."
+What is the difference between a liberal arts college and a university?,"Liberal arts colleges primarily focus on undergraduate education and offer a broad-based curriculum. Universities offer a range of undergraduate and graduate programs, including professional schools."
+How do I arrange a campus visit or college tour?,Contact the college's admissions office to schedule a campus visit or check their website for available tour options. Many colleges also offer virtual tours.
+How do I prepare for college interviews?,"Research the college, practice answering common interview questions, and prepare questions to ask the interviewer. Present yourself professionally and demonstrate your interest and qualifications."
+What should I include in my college application essay?,"The essay should be a personal and compelling narrative that highlights your experiences, values, and aspirations. It should demonstrate your writing skills and provide insight into your character."
+What is the deadline for submitting college applications?,Deadlines vary by college and can range from as early as November to as late as February or March. It's crucial to check the specific deadlines for each college you're applying to.
+How long does it take to hear back from colleges?,"The timeline varies, but most colleges aim to release admission decisions by April. Some colleges may provide early decisions as early as December or January."
+Can I change my major after enrolling in college?,"Yes, many colleges allow students to change their major after enrollment. However, it's essential to understand any specific requirements or limitations of the college you attend."
+What are the next steps after being accepted to a college?,"After acceptance, you will need to review your financial aid package, submit an enrollment deposit, complete any required forms, and prepare for the transition to college."
+How do I secure my spot and enroll in a college?,"To secure your spot, you typically need to submit an enrollment deposit by the specified deadline. This confirms your intention to attend the college."
+What is the difference between early action and regular decision?,"Early action is a non-binding early application process, while regular decision is the standard application process with a later deadline. Early action provides an earlier admission decision."
+Can I defer my admission to a college?,"Some colleges allow admitted students to defer their enrollment for a year, but policies vary by institution. Contact the college's admissions office to inquire about their deferral process."
+How do I calculate my high school GPA for college applications?,High school GPAs are typically calculated on a 4.0 scale based on your grades in core academic subjects. Contact your high school counselor for assistance in calculating your GPA.
+What are the different types of financial aid available for college students?,"Financial aid can include grants, scholarships, loans, and work-study programs. Grants and scholarships are typically ""free"" money, while loans need to be repaid."
+How can I find scholarships specific to my field of study?,"Research online scholarship databases, inquire with your high school's guidance office, explore professional organizations related to your field, and check with the colleges you're applying to for specific scholarships."
+Do colleges require interviews for admission?,"Not all colleges require interviews for admission, but some may offer them as an optional or required component of the application process. Check with the individual colleges for their policies."
+Can I apply to college as an undecided major?,"Yes, many colleges allow students to apply as undecided or undeclared majors. It's common for students to explore different academic paths during their first year or two of college."
+What is the difference between a public and private college?,"Public colleges are funded by the government and often have lower tuition for in-state students. Private colleges are privately funded and typically have higher tuition, but they may offer more financial aid."
+"What is the Common Application, and how does it work?",The Common Application is an online application platform used by over 900 colleges and universities. It allows you to apply to multiple participating colleges using a single application.
+What should I do if I'm placed on a college's waitlist?,"If you're waitlisted, you can choose to accept a spot on the waitlist and provide any additional information or updates that might strengthen your application. It's also important to have a backup plan by accepting admission at another college."
+Is it necessary to visit a college before applying?,"While not mandatory, visiting a college can give you a better sense of the campus environment, facilities, and student life. It can help you make an informed decision when choosing a college."
+How do I determine if a college is a good fit for me?,"Consider factors such as academic programs, location, campus culture, size, cost, resources, and extracurricular opportunities. Researching colleges, talking to current students, and visiting campuses can help you determine if it's a good fit."
+Are there any specific requirements for international students applying to college?,"International students typically need to provide additional documentation, such as proof of English language proficiency, financial documentation, and a passport. Each college may have specific requirements, so check their international admissions guidelines."
+Can I transfer from one college to another?,"Yes, it's possible to transfer from one college to another. Transfer admission requirements and credit transfer policies vary, so research and consult with the colleges you're interested in."
+What should I do if I'm not happy with my college choices?,"If you're not satisfied with your college choices, you can consider appealing your admissions decision, exploring transfer options, or taking a gap year to reconsider your options."
+What are the benefits of attending a community college before transferring to a four-year university?,"Attending a community college before transferring can provide cost savings, smaller class sizes, academic support, and an opportunity to explore different subjects before committing to a four-year institution"
+"What is a college's retention rate, and why is it important?",A college's retention rate refers to the percentage of students who continue their studies at the same institution from year to year. A higher retention rate generally indicates student satisfaction and support services.
+How do I evaluate the reputation and ranking of a college?,"You can consider college rankings by reputable sources like U.S. News & World Report, but also evaluate factors such as graduation rates, faculty qualifications, research opportunities, alumni outcomes, and student satisfaction."
+Can I take a gap year before starting college?,"Yes, many colleges allow students to take a gap year before enrolling. It's important to communicate with the college and have a plan for how you will spend your gap year."
+Are there resources available for students with disabilities in college?,"Yes, colleges are required to provide accommodations and support services for students with disabilities. Contact the college's disability services office to discuss your specific needs."
+How do I choose the right major for me?,"Explore your interests, skills, and long-term career goals. Research different majors, talk to academic advisors and professionals in the fields you're considering, and take relevant courses to help you decide."
+What are the costs associated with college beyond tuition?,"In addition to tuition, consider expenses like housing, meal plans, textbooks, supplies, transportation, health insurance, and personal expenses. Create a budget to understand the total cost of attending college."
+Are there any online or distance learning options for college?,"Yes, many colleges offer online or distance learning programs, especially in recent times. These programs provide flexibility for students who cannot attend classes on campus."
+Can I participate in extracurricular activities in college?,"Yes, colleges offer a wide range of extracurricular activities, clubs, sports teams, and organizations for students to get involved in. It's a great way to pursue your interests, meet new people, and enhance your college experience."
+What is the difference between a bachelor's degree and an associate's degree?,A bachelor's degree typically requires four years of full-time study and offers a broader education in a specific field. An associate's degree is usually completed in two years and provides foundational knowledge in a subject area.
+"What is the student-faculty ratio, and why does it matter?",The student-faculty ratio refers to the number of students per faculty member. A lower ratio indicates smaller class sizes and potentially more personalized attention from professors.
+Are there opportunities for undergraduate research at colleges?,"Many colleges offer opportunities for undergraduate students to engage in research projects, work alongside faculty members, and contribute to academic scholarship in their field of interest."
+Can I study abroad while in college?,"Yes, many colleges provide study abroad programs and opportunities for students to spend a semester or year studying in another country. These experiences can broaden your perspective and enhance your education."
+How do I compare and contrast different college campuses?,"Visit campuses, take virtual tours, research facilities, talk  to current students, and consider factors such as location, size, campus culture, extracurricular offerings, and academic resources."
+"What steps should I take to prepare for college enrollment in terms of academics, extracurriculars, and personal development?","Take challenging courses in high school, participate in extracurricular activities, explore your interests, seek leadership opportunities, develop good study habits, and maintain a balanced and well-rounded life."
+Can I join in college extracurricular activities?,"Yes, colleges offer a wide range of extracurricular activities, clubs, sports teams, and organizations for students to get involved in. It's a great way to pursue your interests, meet new people, and enhance your college experience."
+Is it possible for me to apply to college as an undecided major?,"Yes, many colleges allow students to apply as undecided or undeclared majors. It's common for students to explore different academic paths during their first year or two of college."
+What should I do to prepare for college interviews?,"Research the college, practice answering common interview questions, and prepare questions to ask the interviewer. Present yourself professionally and demonstrate your interest and qualifications."
+How can I assure my child's safety on campus?,"Universities have dedicated security measures in place, such as surveillance systems, campus police, and emergency response protocols. Additionally, counseling services are available to support students' mental well-being."
+Can I switch majors once I enroll?,"Yes, it is generally possible to change your major after enrolling. However, there may be certain requirements or limitations. Please consult with your academic advisor."
+Are there any orientation events for parents and guardians?,"Yes, we offer orientation events specifically for parents and guardians to provide them with important information and resources. These events typically coincide with the freshman orientation program."
+Are there any parent and guardian orientation events?,"Yes, we offer orientation events specifically for parents and guardians to provide them with important information and resources. These events typically coincide with the freshman orientation program."
+Can I ride my bike to campus if I enroll?," Yes, you can bring a bicycle to campus. We have bike racks and designated areas for bicycle parking."
+ Can I bring a bicycle to campus if I enroll?," Yes, you can bring a bicycle to campus. We have bike racks and designated areas for bicycle parking."
+Can I access online library resources from off-campus?,"Yes, you can typically access online library resources, such as e-books, journals, and databases, from off-campus. You will need to log in with your student credentials to gain access."
+Can I use the online library materials while I'm not on campus?,"Yes, you can typically access online library resources, such as e-books, journals, and databases, from off-campus. You will need to log in with your student credentials to gain access."
+How do I sign up for classes as a freshman?,"Once you are admitted, you will be provided with information on how to sign up for classes. This typically involves accessing the student portal or registration system and following the designated enrollment periods and procedures."
+"As a freshman, how do I register for classes?","Once you are admitted, you will be provided with information on how to sign up for classes. This typically involves accessing the student portal or registration system and following the designated enrollment periods and procedures."
+Can I bring a car to campus if I enroll as a freshman?,"Most institutions have specific policies regarding car ownership for freshmen. Some may allow it, while others may restrict parking privileges. Contact the parking office or consult the student handbook for more information."
+"If I enroll as a freshman, are I allowed to bring a car to campus?","Most institutions have specific policies regarding car ownership for freshmen. Some may allow it, while others may restrict parking privileges. Contact the parking office or consult the student handbook for more information."
+How do I join student clubs and organizations as a freshman?,"Joining student clubs and organizations is a great way to get involved on campus. You can find information about clubs and organizations through the student affairs office, student involvement center, or attend club fairs and information sessions at the beginning of the semester."
+"As a freshman, how do I get involved in student groups and organizations?","Joining student clubs and organizations is a great way to get involved on campus. You can find information about clubs and organizations through the student affairs office, student involvement center, or attend club fairs and information sessions at the beginning of the semester."
+Can I participate in sports or athletic programs as a freshman?,Freshmen students can participate in sports and athletic programs based on their skills and the requirements of each sport. You can reach out to the athletic department or coaches for information on tryouts and eligibility.
+"As a freshman, are I allowed to participate in sports or athletic programs?",Freshmen students can participate in sports and athletic programs based on their skills and the requirements of each sport. You can reach out to the athletic department or coaches for information on tryouts and eligibility.
+Can my child change their major after enrolling as a freshman?,"Yes, it is possible for students to change their major after enrolling as a freshman. They would need to follow the procedures and requirements set by the college's academic department and registrar's office."
+Can my child alter his or her major after enrolling as a freshman?,"Yes, it is possible for students to change their major after enrolling as a freshman. They would need to follow the procedures and requirements set by the college's academic department and registrar's office."
+ How can my child get involved in extracurricular activities and clubs as a freshman?,"Getting involved in extracurricular activities and clubs is a great way for freshmen to meet new people and explore their interests. Your child can attend club fairs, join organizations, or reach out to the student affairs office for more information."
+"As a freshman, how may my child participate in extracurricular activities and clubs?","Getting involved in extracurricular activities and clubs is a great way for freshmen to meet new people and explore their interests. Your child can attend club fairs, join organizations, or reach out to the student affairs office for more information."
+Can my child bring a car to campus as a freshman?,"Car regulations for freshmen vary among colleges. Some institutions may allow freshmen to have cars on campus with specific parking permits, while others may restrict parking privileges. Contact the campus parking office for guidelines."
+"As a freshman, can my child bring a car to campus?","Car regulations for freshmen vary among colleges. Some institutions may allow freshmen to have cars on campus with specific parking permits, while others may restrict parking privileges. Contact the campus parking office for guidelines."
+Can my child bring a bike to campus and is there secure bike storage available?," Many colleges allow students to bring bikes to campus, and there are usually designated bike storage areas. Your child can check with the housing office or campus security for information on bike storage options."
+"Can my child ride a bike on campus, and is there secure bike storage?"," Many colleges allow students to bring bikes to campus, and there are usually designated bike storage areas. Your child can check with the housing office or campus security for information on bike storage options."
+How can my child access the library and its resources as a freshman?,"The college library is typically accessible to all students. Your child can obtain a student ID card, which grants them access to the library facilities and resources. The library staff can provide assistance with research materials and services."
+"As a freshman, how can my child use the library and its resources?","The college library is typically accessible to all students. Your child can obtain a student ID card, which grants them access to the library facilities and resources. The library staff can provide assistance with research materials and services."
+What technology resources and support are available to freshmen students on campus?,"Colleges often provide technology resources such as computer labs, software access, and technical support for students. Your child can contact the IT department or student services for information on technology resources and support."
+What technological tools and assistance are available to first-year students on campus?,"Colleges often provide technology resources such as computer labs, software access, and technical support for students. Your child can contact the IT department or student services for information on technology resources and support."
+ How can my child access disability accommodations and support services as a freshman?, Colleges provide disability accommodations and support services to students with documented disabilities. Your child can contact the disability services office to initiate the accommodation process and access support services.
+"As a freshman, how can my child obtain disability accommodations and support services?", Colleges provide disability accommodations and support services to students with documented disabilities. Your child can contact the disability services office to initiate the accommodation process and access support services.
+What steps can a freshman take to receive disability accommodations and support services?, Colleges provide disability accommodations and support services to students with documented disabilities. Your child can contact the disability services office to initiate the accommodation process and access support services.
+When should I start the college enrollment process?, It's recommended to start the process during your junior year of high school.
+How do I choose the right college or university?," Research and consider factors like academic programs, campus culture, location, size, cost, and opportunities for your desired career path."
+What are the admission requirements for colleges?,"Admission requirements vary, but typically include high school transcripts, standardized test scores, letters of recommendation, and a personal statement or essay."
+"Admission requirements vary, but typically include high school transcripts, standardized test scores, letters of recommendation, and a personal statement or essay.","The most common standardized tests for college admission are the SAT and ACT. However, some colleges may have test-optional policies."
+How do I apply for financial aid and scholarships?,"Complete the Free Application for Federal Student Aid (FAFSA) to apply for federal aid. Research and apply for scholarships through various sources like colleges, organizations, and online databases."
+What is the Free Application for Federal Student Aid (FAFSA)?,"The FAFSA is a form that determines your eligibility for federal financial aid programs, such as grants, loans, and work-study opportunities."
+" What is the CSS Profile, and when is it required?",The CSS Profile is an additional financial aid application required by some colleges and universities to gather more detailed information about your finances. It is used to determine eligibility for non-federal financial aid.
+What documents do I need for the college application process?,"Commonly required documents include high school transcripts, standardized test scores, letters of recommendation, a personal statement or essay, and any supplemental materials specific to the college."
+How do I request recommendation letters?,"Approach teachers, counselors, or mentors who know you well and can speak to your abilities and character. Request letters politely, providing them with necessary information and deadlines."
+ Can I apply to multiple colleges at once?,"Yes, you can apply to multiple colleges simultaneously using their respective application processes."
+"What is early decision/early action, and should I consider it?","Early decision is a binding agreement, while early action is non-binding. Both allow you to apply earlier than the regular deadline. Consider early options if you have a strong preference for a particular college."
+What is the difference between a liberal arts college and a university?,"Liberal arts colleges primarily focus on undergraduate education and offer a broad-based curriculum. Universities offer a range of undergraduate and graduate programs, including professional schools."
+How do I arrange a campus visit or college tour?,Contact the college's admissions office to schedule a campus visit or check their website for available tour options. Many colleges also offer virtual tours.
+How do I prepare for college interviews?,"Research the college, practice answering common interview questions, and prepare questions to ask the interviewer. Present yourself professionally and demonstrate your interest and qualifications."
+What should I include in my college application essay?,"The essay should be a personal and compelling narrative that highlights your experiences, values, and aspirations. It should demonstrate your writing skills and provide insight into your character."
+What is the deadline for submitting college applications?,Deadlines vary by college and can range from as early as November to as late as March or April. Check each college's website or application portal for specific deadlines.
+How long does it take to hear back from colleges?,"Response times vary, but most colleges aim to notify applicants of their admission decision by April or May."
+Can I change my major after enrolling in college?,"Yes, many colleges allow students to change their major after enrolling. However, specific policies and requirements may vary."
+What are the next steps after being accepted to a college?,"After acceptance, review your financial aid package, submit an enrollment deposit, complete any required forms, and prepare for the transition to college."
+How do I secure my spot and enroll in a college?,"To secure your spot, submit an enrollment deposit by the specified deadline, usually accompanied by an acceptance letter or enrollment confirmation form."
+What rights do freshmen with disabilities have when enrolling in college?,Freshmen with disabilities have the right to reasonable accommodations and support under the Magna Carta for Persons with Disabilities (PWDs). This law ensures equal access to education for PWDs and mandates educational institutions to provide necessary adjustments and modifications to accommodate their needs.
+What documentation is required to request accommodations in college?,Documentation from a qualified professional that verifies the student's disability and outlines the recommended accommodations is typically required.
+Can freshmen with disabilities receive extra time for exams?,"Yes, freshmen with disabilities may be eligible for extended time for exams as an accommodation."
+Are freshmen with disabilities required to disclose their disability to professors?,Freshmen with disabilities are not required to disclose their disability to professors unless they are seeking accommodations.
+Can freshmen with disabilities receive assistance in navigating the campus?,"Yes, freshmen with disabilities can receive assistance in navigating the campus through services like disability support programs or campus accessibility offices."
+Are there scholarships available specifically for freshmen with disabilities?,"Yes, there are scholarships available specifically for students with disabilities. Students can research and apply for these scholarships."
+Can freshmen with disabilities participate in extracurricular activities?,"Yes, freshmen with disabilities have the right to participate in extracurricular activities on an equal basis with their peers."
+Are there support groups or organizations for freshmen with disabilities on campus?,"Many colleges have support groups or organizations specifically for students with disabilities, providing a sense of community and additional support."
+Can freshmen with disabilities receive assistance with note-taking in classes?,"Yes, students with disabilities may be eligible for note-taking assistance as an accommodation."
+Are there resources available to help freshmen with disabilities transition to college life?,"Yes, colleges often have resources such as orientation programs and support services to help freshmen with disabilities transition successfully."
+Can freshmen with disabilities request accessible course materials?,"Yes, students with disabilities can request accessible course materials, such as textbooks in alternative formats or captioned videos."
+Are there any financial aid options specifically for freshmen with disabilities?,"While there are no specific financial aid options exclusively for freshmen with disabilities, they can apply for general financial aid programs and scholarships."
+Can freshmen with disabilities receive assistance with registration and course selection?," Yes, freshmen with disabilities can receive assistance with registration and course selection"
+Are there career services available for freshmen with disabilities?,"Yes, colleges typically offer career services that are inclusive and provide support to all students, including those with disabilities."
+What steps can freshmen with disabilities take to ensure a smooth transition to college?,"Freshmen with disabilities can start by researching disability services, contacting the college's department office and familiarizing themselves with the available resources."
+How can freshmen with disabilities advocate for themselves in college?,"Freshmen with disabilities can advocate for themselves by communicating their needs, seeking accommodations, and utilizing available resources."
+Are there support services available for freshmen with specific learning disabilities?," Yes, colleges often provide support services tailored to the needs of students with specific learning disabilities, such as tutoring or study skills workshops."
+Are there any mentoring programs available for freshmen with disabilities?,Some colleges offer mentoring programs where upperclassmen or alumni with disabilities provide guidance and support to freshmen with disabilities.
+Can freshmen with disabilities receive assistance with acquiring assistive technology?,"Yes, colleges may provide resources or assistance in acquiring and using assistive technology that supports students with disabilities."
+Are there accessible sports or recreational activities available for freshmen with disabilities?,"Many colleges offer accessible sports and recreational activities, allowing freshmen with disabilities to participate and enjoy physical activities."
+Can freshmen with disabilities receive assistance with time management and organizational skills?,"Yes, colleges often provide resources or workshops to help students with disabilities develop effective time management and organizational skills."
+Can freshmen with disabilities receive accommodations in internships or work-study programs?,"Yes, students with disabilities can request accommodations in internships or work-study programs, similar to their accommodations in academic settings."
+ Can freshmen with disabilities receive assistance in securing personal care attendants on campus?,Colleges may offer guidance or resources to help students with disabilities secure personal care attendants or support services on campus.
+Are there counseling or mental health services available for freshmen with disabilities?,"Colleges typically offer counseling or mental health services that are accessible to all students, including those with disabilities."
+ Can freshmen with disabilities request flexible attendance policies due to their disability?,Students with disabilities may request flexibility in attendance policies as an accommodation if their disability impacts their ability to consistently attend classes.
+ Are there any programs or initiatives aimed at increasing awareness and inclusivity for freshmen with disabilities?,"Many colleges have programs or initiatives to increase awareness and promote inclusivity for students with disabilities, such as disability awareness weeks or training sessions."
+Can freshmen with disabilities receive assistance with career planning and job placement?,"Yes, colleges often provide assistance with career planning and job placement to all students, including those with disabilities."
+Can freshmen with disabilities request accessible lab equipment or materials?,"Yes, students with disabilities can request accessible lab equipment or materials to ensure their full participation in laboratory courses."
+Are there any scholarships available for students pursuing majors related to disabilities or accessibility?,Some scholarships are specifically targeted towards students pursuing majors related to disabilities or accessibility. Students can research and apply for these scholarships.
+Can freshmen with disabilities request accessible seating arrangements in classrooms or lecture halls?,"Yes, students with mobility disabilities can request accessible seating arrangements in classrooms or lecture halls."
+Are there any peer mentoring programs for freshmen with disabilities?,Some colleges have peer mentoring programs where current students with disabilities mentor and support incoming freshmen with disabilities.
+Can freshmen with disabilities receive assistance with adapting or modifying course materials?,"Yes, students with disabilities can request adaptations or modifications to course materials to ensure their accessibility and comprehension."
+Are there any financial resources available to help freshmen with disabilities purchase assistive technology?,Some organizations or agencies provide financial resources or grants to help students with disabilities purchase assistive technology.
+Can freshmen with disabilities request accessible seating at events or campus activities?,"Yes, students with disabilities can request accessible seating at events or campus activities to ensure their participation and comfort."
+ Are there any campus-wide accessibility initiatives or renovations taking place?,Some colleges may have ongoing accessibility initiatives or renovations to improve accessibility across the campus.
+Can freshmen with disabilities receive assistance with arranging accessible transportation for field trips or off-campus activities?,"Yes, colleges can assist students with disabilities in arranging accessible transportation for field trips or off-campus activities."
+Are there any study groups or tutoring services specifically designed for freshmen with disabilities?,Some colleges offer study groups or tutoring services specifically tailored to the needs of freshmen with disabilities.
+Can freshmen with disabilities receive assistance with securing accessible parking on campus?,"Yes, students with disabilities can request accessible parking permits and assistance in securing accessible parking spots on campus."
+Are there any support services available for freshmen with invisible disabilities?,"Yes, colleges often have support services and resources available for students with invisible disabilities, such as ADHD or mental health conditions."
+Can freshmen with disabilities receive assistance with modifying physical education or fitness requirements?,Students with disabilities can request modifications or substitutions to physical education or fitness requirements based on their specific needs.
+Are there any networking opportunities for freshmen with disabilities to connect with professionals in their field of interest?,Some colleges organize networking events or opportunities for students with disabilities to connect with professionals in their desired fields.
+Can freshmen with disabilities receive assistance with securing accessible housing during breaks or vacations?,"Yes, colleges may provide resources or assistance in securing accessible housing options for students with disabilities during breaks or vacations."
+Are there any assistive technology labs or centers on campus?,Some colleges have peer mentoring programs where current students with disabilities mentor and support incoming freshmen with disabilities.
+Can freshmen with disabilities request captioning or transcripts for audiovisual materials used in classes?,"Yes, students with hearing impairments can request captioning or transcripts for audiovisual materials used in classes."
+Are there any research opportunities or projects focused on disabilities that freshmen can participate in?,"Some colleges may offer research opportunities or projects related to disabilities, allowing freshmen with disabilities to contribute to the field."
+Can freshmen with disabilities receive assistance with financial management or budgeting skills?,"Yes, colleges may provide resources or workshops to help students with disabilities develop financial management and budgeting skills."
+ Are there any disability-specific scholarships or grants available for freshmen with disabilities?,Some organizations or foundations offer disability-specific scholarships or grants that freshmen with disabilities can apply for.
+Can freshmen with disabilities receive assistance with acquiring accessible textbooks or reading materials?,"Yes, students with print disabilities can request accessible textbooks or reading materials in alternative formats, such as electronic or audio formats."
+Are there any campus-wide events or awareness campaigns focused on disability inclusion?,Some colleges organize campus-wide events or awareness campaigns to promote disability inclusion and educate the community.
+ Can freshmen with disabilities receive assistance with managing their medication or medical needs on campus?,Colleges may offer resources or guidance to help students with disabilities manage their medication or medical needs while on campus.
+Are there any specific orientations or workshops for freshmen with disabilities?,Some colleges offer orientations or workshops specifically designed for freshmen with disabilities to provide them with essential information and support.
+Can freshmen with disabilities receive assistance with acquiring assistive software or apps for their devices?,"Yes, colleges may provide guidance or resources to help students with disabilities acquire and utilize assistive software or apps."
+Are there any grants or funding opportunities for freshmen with disabilities to pursue research or projects in their field?,Some organizations or funding agencies offer grants or funding opportunities specifically for students with disabilities to pursue research or projects.
+ Can freshmen with disabilities receive assistance with acquiring accessible lab coats or protective equipment?,"Yes, students with disabilities can request accessible lab coats or protective equipment to accommodate their specific needs."
+Are there any leadership development programs or opportunities for freshmen with disabilities?,Some colleges offer leadership development programs or opportunities specifically tailored to the needs of freshmen with disabilities.
+Can freshmen with disabilities receive assistance with securing accessible transportation for medical appointments or off-campus healthcare services?,"Yes, colleges may provide resources or assistance in arranging accessible transportation for medical appointments or off-campus healthcare services."
+Are there any student organizations or clubs focused on disability advocacy or awareness?,"Many colleges have student organizations or clubs dedicated to disability advocacy, awareness, and creating an inclusive campus community."
+Can freshmen with disabilities receive assistance with acquiring ergonomic furniture or equipment for their dorm rooms?,"Yes, students with disabilities can request ergonomic furniture or equipment for their dorm rooms to ensure their comfort and accessibility."
+Are there any workshops or resources available to help freshmen with disabilities develop study skills or strategies?,"Yes, colleges often provide workshops or resources to help students with disabilities develop effective study skills and strategies."
+Can freshmen with disabilities receive assistance with acquiring accessible software or devices for their academic use?,"Yes, colleges may provide guidance or resources to help students with disabilities acquire accessible software or devices for their academic needs."
+Are there any disability specific internships or work experiences available for freshmen with disabilities?, Some organizations or companies offer disability-specific internships or work experiences that freshmen with disabilities can explore.
+Can freshmen with disabilities receive assistance with acquiring assistive communication devices or software?,"Yes, students with communication disabilities can receive assistance in acquiring and utilizing assistive communication devices or software."
+Are there any grants or funding opportunities for freshmen with disabilities to pursue assistive technology or devices?,Some organizations or foundations offer grants or funding opportunities specifically for students with disabilities to acquire assistive technology or devices.
+Can freshmen with disabilities receive assistance with acquiring accessible art supplies or equipment for art-related courses?,"Yes, students with disabilities can request accessible art supplies or equipment to accommodate their specific needs in art-related courses."
+ Are there any workshops or resources available to help freshmen with disabilities develop self-care and stress management skills?,"Yes, colleges often provide workshops or resources to help students with disabilities develop self-care and stress management skills."
+Can freshmen with disabilities receive assistance with acquiring accessible musical instruments or equipment for music-related courses?,"Yes, students with disabilities can request accessible musical instruments or equipment to accommodate their specific needs in music-related courses."
+Are there any campus-wide initiatives or programs aimed at improving physical accessibility for freshmen with disabilities?,"Some colleges have campus-wide initiatives or programs focused on improving physical accessibility, such as installing ramps or elevators."
+Can freshmen with disabilities receive assistance with acquiring accessible assistive listening devices for performances or cultural events?,"Yes, students with hearing impairments can request accessible assistive listening devices for performances or cultural events."
+Are there any career fairs or networking events specifically targeted towards freshmen with disabilities?,Some colleges organize career fairs or networking events specifically targeted towards freshmen with disabilities to connect them with employers.
+Can freshmen with disabilities receive assistance with acquiring accessible exercise equipment or facilities on campus?," Yes, colleges may provide guidance or resources to help students with disabilities access and utilize accessible exercise equipment or facilities."
+Are there any mentorship programs connecting freshmen with disabilities to professionals in their desired field?,Some colleges have mentorship programs that connect freshmen with disabilities to professionals who can provide guidance and support.
+ Can freshmen with disabilities receive assistance with acquiring accessible seating for performances or cultural events?,"Yes, students with disabilities can request accessible seating arrangements for performances or cultural events to ensure their enjoyment and participation."
+Are there any campus-wide initiatives or programs aimed at improving digital accessibility for freshmen with disabilities?,"Some colleges have campus-wide initiatives or programs focused on improving digital accessibility, such as providing captioning for online content."
+ Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for science-related courses?," Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in science-related courses."
+Are there any support services available for freshmen with disabilities transitioning from high school to college?," Yes, colleges often offer support services and resources specifically designed to assist freshmen with disabilities transitioning from high school to college."
+Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for engineering or design-related courses?,"Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in engineering or design-related courses."
+Are there any campus-wide initiatives or programs aimed at promoting mental health and well-being for freshmen with disabilities?,"Some colleges have campus-wide initiatives or programs focused on promoting mental health and well-being for all students, including those with disabilities."
+Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for computer science or programming-related courses?,"Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in computer science or programming-related courses."
+ Are there any support groups or peer support networks for freshmen with disabilities?, Some colleges have support groups or peer support networks where freshmen with disabilities can connect with and seek support from fellow students.
+Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for art or design-related courses?," Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in art or design-related courses."
+Are there any initiatives or programs focused on promoting disability-inclusive campus events and activities?,Some colleges have initiatives or programs aimed at promoting disability-inclusive campus events and activities to ensure the participation of all students.
+Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for theater or performance-related courses?," Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in theater or performance-related courses."
+ Are there any support services available for freshmen with disabilities who are non-native English speakers?,"Yes, colleges often offer support services and resources to assist freshmen with disabilities who are non-native English speakers in their academic journey."
+Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for journalism or media-related courses?,"Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in journalism or media-related courses."
+Are there any campus-wide initiatives or programs aimed at promoting accessibility in online learning for freshmen with disabilities?,"Some colleges have campus-wide initiatives or programs focused on promoting accessibility in online learning, ensuring equitable access for all students."
+Can freshmen with disabilities receive assistance with acquiring accessible equipment or tools for architecture or construction-related courses?,"Yes, students with disabilities can request accessible equipment or tools to accommodate their specific needs in architecture or construction-related courses."
+Are there any support services available for freshmen with disabilities who are parents or caregivers?,"Yes, colleges may offer support services and resources to assist freshmen with disabilities who are parents or caregivers in balancing their responsibilities."
+What is the course for IT?,Bachelor of Science in Information Technology
+What is the course for ICT?,Bachelor of Science in Information Technology
+Course for IT?,Bachelor of Science in Information Technology
+Course for ICT?,Bachelor of Science in Information Technology
+What is the course for CS?,Bachelor of Science in Computer Science
+What is the course for ComSci?,Bachelor of Science in Computer Science
+Course for CS?,Bachelor of Science in Computer Science
+Course for ComSci?,Bachelor of Science in Computer Science
+What is the course for mastering IT?,Master of Science in Information Technology
+What is the course for mastering ICT?,Master of Science in Information Technology
+Course for mastering IT?,Master of Science in Information Technology
+Course for mastering ICT?,Master of Science in Information Technology
+What is the course for psychologist?,Bachelor of Science in Psychology
+What is the course for psych?,Bachelor of Science in Psychology
+Course for psychologist?,Bachelor of Science in Psychology
+Course for psych?,Bachelor of Science in Psychology
+What is the course for civil engineer?,Bachelor of Science in Civil Engineering
+What is the course for civil?,Bachelor of Science in Civil Engineering
+Course for civil engineer?,Bachelor of Science in Civil Engineering
+Course for civil?,Bachelor of Science in Civil Engineering
+What is the course for computer engineer?,Bachelor of Science in Computer Engineering
+What is the course for CPE?,Bachelor of Science in Computer Engineering
+Course for computer engineer?,Bachelor of Science in Computer Engineering
+Course for CPE?,Bachelor of Science in Computer Engineering
+What is the course for electrical engineer?,Bachelor of Science in Electrical Engineering
+What is the course for EE?,Bachelor of Science in Electrical Engineering
+Course for electrical engineer?,Bachelor of Science in Electrical Engineering
+Course for EE?,Bachelor of Science in Electrical Engineering
+What is the course for mechinal engineer?,Bachelor of Science in Mechanical Engineering
+What is the course for machine engineer?,Bachelor of Science in Mechanical Engineering
+Course for mechanical engineer?,Bachelor of Science in Mechanical Engineering
+Course for machine engineer?,Bachelor of Science in Mechanical Engineering
+What is the course for business ad?,Bachelor of Science in Business Administration
+What is the course for business admin?,Bachelor of Science in Business Administration
+Course for business ad?,Bachelor of Science in Business Administration
+Course for business admin?,Bachelor of Science in Business Administration
+What is the course for office ad?,Bachelor of Science in Office Administration
+What is the course for office admin?,Bachelor of Science in Office Administration
+Course for office ad?,Bachelor of Science in Office Administration
+Course for office admin?,Bachelor of Science in Office Administration
+What is the course for BPO?,Bachelor of Science in Information Technology - Service Management Program
+What is the course for call center?,Bachelor of Science in Information Technology - Service Management Program
+Course for BPO?,Bachelor of Science in Information Technology - Service Management Program
+Course for call center?,Bachelor of Science in Information Technology - Service Management Program
+What is the course for web design?,Bachelor of Science in Information Technology - Web and Mobile Development
+What is the course for mobile development?,Bachelor of Science in Information Technology - Web and Mobile Development
+Course for web design?,Bachelor of Science in Information Technology - Web and Mobile Development
+Course for mobile development?,Bachelor of Science in Information Technology - Web and Mobile Development
+What is the course for entrepreneur?,Bachelor of Science in Entrepreneurship
+What is the course for entrep?,Bachelor of Science in Entrepreneurship
+Course for entrep?,Bachelor of Science in Entrepreneurship
+Course for entrepreneur?,Bachelor of Science in Entrepreneurship
+What is the course for Public Administration?,Bachelor of Science in Public Administration
+Course for Public Administration?,Bachelor of Science in Public Administration
+What is the course for Accountancy?,Bachelor of Science in Accountancy
+Course for Accountancy?,Bachelor of Science in Accountancy
+What is the course for Hospitality Management?,Bachelor of Science in Hospitality Management
+Course for Hospitality Management?,Bachelor of Science in Hospitality Management
+What is the course for Tourism?,Bachelor of Science in Tourism Management
+Course for Tourism?,Bachelor of Science in Tourism Management
+What is the course for HRM?,Bachelor of Science in Hospitality Management
+Course for HRM?,Bachelor of Science in Hospitality Management
+What is the course for Hotel And Resto?,Bachelor of Science in Hospitality Management
+Course for Hotel And Resto?,Bachelor of Science in Hospitality Management
+What is the course for Hotel Management?,Bachelor of Science in Hospitality Management
+Course for Hotel Management?,Bachelor of Science in Hospitality Management
+What is the course for Nursing?,Bachelor of Science in Nursing
+Course for Nursing?,Bachelor of Science in Nursing
+What is the course for Electronics Engineering?,Bachelor of Science in Electronics Engineering
+Course for Electronics Engineering?,Bachelor of Science in Electronics Engineering
+What is the course for Broadcasting?,Bachelor of Arts in Broadcasting
+Course for Broadcasting?,Bachelor of Arts in Broadcasting
+What is the course for Biology?,Bachelor of Science in Biology
+Course for Biology?,Bachelor of Science in Biology
+What is the course for Chemistry?,Bachelor of Science in Chemistry
+Course for Chemistry?,Bachelor of Science in Chemistry
+What is the course for Mathematics?,Bachelor of Science in Mathematics
+Course for Mathematics?,Bachelor of Science in Mathematics
+What is the course for Criminology?,Bachelor of Science in Criminology
+Course for Criminology?,Bachelor of Science in Criminology
+What is the course for Industrial Technology?,Bachelor of Science in Industrial Technology
+Course for Industrial Technology?,Bachelor of Science in Industrial Technology
+What is the course for high school teacher teaching English?,Bachelor in Secondary Education - Major in English
+Course for high school teacher teaching English?,Bachelor in Secondary Education - Major in English
+What is the course for high school teacher teaching Filipino?,Bachelor in Secondary Education - Major in Filipino
+Course for high school teacher teaching Filipino?,Bachelor in Secondary Education - Major in Filipino
+What is the course for high school teacher teaching Mathematics?,Bachelor in Secondary Education - Major in Mathematics
+Course for high school teacher teaching Mathematics?,Bachelor in Secondary Education - Major in Mathematics
+What is the course for high school teacher teaching Science?,Bachelor in Secondary Education - Major in Science
+Course for high school teacher teaching Science?,Bachelor in Secondary Education - Major in Science
+What is the course for high school teacher teaching Social Studies?,Bachelor in Secondary Education - Major in Social Studies
+Course for high school teacher teaching Social Studies?,Bachelor in Secondary Education - Major in Social Studies
+What is the course for high school teacher teaching Values Education?,Bachelor in Secondary Education - Major in Values Education
+Course for high school teacher teaching Values Education?,Bachelor in Secondary Education - Major in Values Education
+What is the course for mastering teacher teaching English?,Master of Arts in Education - Major in English
+Course for mastering teacher teaching English?,Master of Arts in Education - Major in English
+What is the course for mastering teacher teaching Filipino?,Master of Arts in Education - Major in Filipino
+Course for mastering teacher teaching Filipino?,Master of Arts in Education - Major in Filipino
+What is the course for mastering teacher teaching Mathematics?,Master of Arts in Education - Major in Mathematics
+Course for mastering teacher teaching Mathematics?,Master of Arts in Education - Major in Mathematics
+What is the course for mastering teacher teaching Physical Education?,Master of Arts in Education - Major in Physical Education
+Course for mastering teacher teaching Physical Education?,Master of Arts in Education - Major in Physical Education
+What is the course for mastering teacher teaching Science and Technology?,Master of Arts in Education - Major in Science and Technology
+Course for mastering teacher teaching Science and Technology?,Master of Arts in Education - Major in Science and Technology
+What is the course for mastering teacher teaching Social Science?,Master of Arts in Education - Major in Social Science
+Course for mastering teacher teaching Social Science?,Master of Arts in Education - Major in Social Science
+What is the course for mastering teacher teaching Technology and Livelihood Education?,Master of Arts in Education - Major in Technology and Livelihood Education
+Course for mastering teacher teaching Technology and Livelihood Education?,Master of Arts in Education - Major in Technology and Livelihood Education
+Does LSPU offers SHS?,"Yes, it offers SHS."
+Does LSPU offers Senior High School?,"Yes, it offers Senior High School."
+Does LSPU offers Grade 11 and Grade 12?,"Yes, it offers Senior High School."
+What tracks available in SHS?,"It offers STEM (Science, Technology, Engineering, and Mathematics), HUMSS (Humanities and Social Studies), ABM (Accountancy and Business Administration), and TVL (Information and Communication Technology - Computer Programming, Food and Beverage Services, and Bread and Pastry Production)"
+SHS tracks available?,"It offers STEM (Science, Technology, Engineering, and Mathematics), HUMSS (Humanities and Social Studies), ABM (Accountancy and Business Administration), and TVL (Information and Communication Technology - Computer Programming, Food and Beverage Services, and Bread and Pastry Production)"
+What can I avail track in SHS?,"It offers STEM (Science, Technology, Engineering, and Mathematics), HUMSS (Humanities and Social Studies), ABM (Accountancy and Business Administration), and TVL (Information and Communication Technology - Computer Programming, Food and Beverage Services, and Bread and Pastry Production)"
+What tracks available in Senior High School?,"It offers STEM (Science, Technology, Engineering, and Mathematics), HUMSS (Humanities and Social Studies), ABM (Accountancy and Business Administration), and TVL (Information and Communication Technology - Computer Programming, Food and Beverage Services, and Bread and Pastry Production)"
+Senior High School tracks available?,"It offers STEM (Science, Technology, Engineering, and Mathematics), HUMSS (Humanities and Social Studies), ABM (Accountancy and Business Administration), and TVL (Information and Communication Technology - Computer Programming, Food and Beverage Services, and Bread and Pastry Production)"
+What can I avail track in Senior High School?,"It offers STEM (Science, Technology, Engineering, and Mathematics), HUMSS (Humanities and Social Studies), ABM (Accountancy and Business Administration), and TVL (Information and Communication Technology - Computer Programming, Food and Beverage Services, and Bread and Pastry Production)"
+What is the track that fits for me studying Science?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS Track that fits for me studying Science?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS track for studying Science?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS course for Science?,"STEM (Science, Technology, Engineering, and Mathematics)"
+Course for SHS that focus on Science?,"STEM (Science, Technology, Engineering, and Mathematics)"
+What is the track that fits for me studying Technology?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS Track that fits for me studying Technology?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS track for studying Technology?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS course for Technology?,"STEM (Science, Technology, Engineering, and Mathematics)"
+Course for SHS that focus on Technology?,"STEM (Science, Technology, Engineering, and Mathematics)"
+What is the track that fits for me studying Engineering?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS Track that fits for me studying Engineering?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS track for studying Engineering?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS course for Engineering?,"STEM (Science, Technology, Engineering, and Mathematics)"
+Course for SHS that focus on Engineering?,"STEM (Science, Technology, Engineering, and Mathematics)"
+What is the track that fits for me studying Mathematics?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS Track that fits for me studying Mathematics?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS track for studying Mathematics?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS course for Mathematics?,"STEM (Science, Technology, Engineering, and Mathematics)"
+Course for SHS that focus on Mathematics?,"STEM (Science, Technology, Engineering, and Mathematics)"
+What is the track that fits for me studying IoT?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS Track that fits for me studying IoT?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS track for studying IoT?,"STEM (Science, Technology, Engineering, and Mathematics)"
+SHS course for IoT?,"STEM (Science, Technology, Engineering, and Mathematics)"
+Course for SHS that focus on IoT?,"STEM (Science, Technology, Engineering, and Mathematics)"
+What is the track that fits for me studying Humanities?,HUMSS (Humanities and Social Studies)
+SHS Track that fits for me studying Humanities?,HUMSS (Humanities and Social Studies)
+SHS track for studying Humanities?,HUMSS (Humanities and Social Studies)
+SHS course for Humanities?,HUMSS (Humanities and Social Studies)
+Course for SHS that focus on Humanities?,HUMSS (Humanities and Social Studies)
+What is the track that fits for me studying Social Studies?,HUMSS (Humanities and Social Studies)
+SHS Track that fits for me studying Social Studies?,HUMSS (Humanities and Social Studies)
+SHS track for studying Social Studies?,HUMSS (Humanities and Social Studies)
+SHS course for Social Studies?,HUMSS (Humanities and Social Studies)
+Course for SHS that focus on Social Studies?,HUMSS (Humanities and Social Studies)
+What is the track that fits for me studying Social Science?,HUMSS (Humanities and Social Studies)
+SHS Track that fits for me studying Social Science?,HUMSS (Humanities and Social Studies)
+SHS track for studying Social Science?,HUMSS (Humanities and Social Studies)
+SHS course for Social Science?,HUMSS (Humanities and Social Studies)
+Course for SHS that focus on Social Science?,HUMSS (Humanities and Social Studies)
+What is the track that fits for me studying Accountancy?,ABM (Accountancy and Business Administration)
+SHS Track that fits for me studying Accountancy?,ABM (Accountancy and Business Administration)
+SHS track for studying Accountancy?,ABM (Accountancy and Business Administration)
+SHS course for Accountancy?,ABM (Accountancy and Business Administration)
+Course for SHS that focus on Accountancy?,ABM (Accountancy and Business Administration)
+What is the track that fits for me studying Business Administration?,ABM (Accountancy and Business Administration)
+SHS Track that fits for me studying Business Administration?,ABM (Accountancy and Business Administration)
+SHS track for studying Business Administration?,ABM (Accountancy and Business Administration)
+SHS course for Business Administration?,ABM (Accountancy and Business Administration)
+Course for SHS that focus on Business Administration?,ABM (Accountancy and Business Administration)
+What is the track that fits for me studying Office Administration?,ABM (Accountancy and Business Administration)
+SHS Track that fits for me studying Office Administration?,ABM (Accountancy and Business Administration)
+SHS track for studying Office Administration?,ABM (Accountancy and Business Administration)
+SHS course for Office Administration?,ABM (Accountancy and Business Administration)
+Course for SHS that focus on Office Administration?,ABM (Accountancy and Business Administration)
+What is the track that fits for me studying Entrepreneurship?,ABM (Accountancy and Business Administration)
+SHS Track that fits for me studying Entrepreneurship?,ABM (Accountancy and Business Administration)
+SHS track for studying Entrepreneurship?,ABM (Accountancy and Business Administration)
+SHS course for Entrepreneurship?,ABM (Accountancy and Business Administration)
+Course for SHS that focus on Entrepreneurship?,ABM (Accountancy and Business Administration)
+What is the track that fits for me studying Entrepreneur?,ABM (Accountancy and Business Administration)
+SHS Track that fits for me studying Entrepreneur?,ABM (Accountancy and Business Administration)
+SHS track for studying Entrepreneur?,ABM (Accountancy and Business Administration)
+SHS course for Entrepreneur?,ABM (Accountancy and Business Administration)
+Course for SHS that focus on Entrepreneur?,ABM (Accountancy and Business Administration)
+What is the track that fits for me studying Accountant?,ABM (Accountancy and Business Administration)
+SHS Track that fits for me studying Accountant?,ABM (Accountancy and Business Administration)
+SHS track for studying Accountant?,ABM (Accountancy and Business Administration)
+SHS course for Accountant?,ABM (Accountancy and Business Administration)
+Course for SHS that focus on Accountant?,ABM (Accountancy and Business Administration)
+What is the track that fits for me studying IT?,TVL - Information and Communication Technology - Computer Programming
+SHS Track that fits for me studying IT?,TVL - Information and Communication Technology - Computer Programming
+SHS track for studying IT?,TVL - Information and Communication Technology - Computer Programming
+SHS course for IT?,TVL - Information and Communication Technology - Computer Programming
+Course for SHS that focus on IT?,TVL - Information and Communication Technology - Computer Programming
+What is the track that fits for me studying ICT?,TVL - Information and Communication Technology - Computer Programming
+SHS Track that fits for me studying ICT?,TVL - Information and Communication Technology - Computer Programming
+SHS track for studying ICT?,TVL - Information and Communication Technology - Computer Programming
+SHS course for ICT?,TVL - Information and Communication Technology - Computer Programming
+Course for SHS that focus on ICT?,TVL - Information and Communication Technology - Computer Programming
+What is the track that fits for me studying Computer?,TVL - Information and Communication Technology - Computer Programming
+SHS Track that fits for me studying Computer?,TVL - Information and Communication Technology - Computer Programming
+SHS track for studying Computer?,TVL - Information and Communication Technology - Computer Programming
+SHS course for Computer?,TVL - Information and Communication Technology - Computer Programming
+Course for SHS that focus on Computer?,TVL - Information and Communication Technology - Computer Programming
+What is the track that fits for me studying Programming?,TVL - Information and Communication Technology - Computer Programming
+SHS Track that fits for me studying Programming?,TVL - Information and Communication Technology - Computer Programming
+SHS track for studying Programming?,TVL - Information and Communication Technology - Computer Programming
+SHS course for Programming?,TVL - Information and Communication Technology - Computer Programming
+Course for SHS that focus on Programming?,TVL - Information and Communication Technology - Computer Programming
+What is the track that fits for me studying Food and Beverage?,TVL - Food and Beverage Services
+SHS Track that fits for me studying Food and Beverage?,TVL - Food and Beverage Services
+SHS track for studying Food and Beverage?,TVL - Food and Beverage Services
+SHS course for Food and Beverage?,TVL - Food and Beverage Services
+Course for SHS that focus on Food and Beverage?,TVL - Food and Beverage Services
+What is the track that fits for me studying Bread and Pastry?,TVL - Bread and Pastry Production
+SHS Track that fits for me studying Bread and Pastry?,TVL - Bread and Pastry Production
+SHS track for studying Bread and Pastry?,TVL - Bread and Pastry Production
+SHS course for Bread and Pastry?,TVL - Bread and Pastry Production
+Course for SHS that focus on Bread and Pastry?,TVL - Bread and Pastry Production
