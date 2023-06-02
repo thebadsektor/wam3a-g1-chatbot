@@ -24,8 +24,8 @@ Nothing,I think you hit the wrong key...
 Nothing,What did you want to ask?
 Nothing,Let's talk about something.
 Nothing,One more time?
-Who are you?,I am a ChatBot.
-Who are you?,I am a Python powered ChatBot.
+Who are you?,I am a ChatBot for enrolment for incoming freshmen students.
+Who are you?,I am a Flask.py powered ChatBot for enrolment for incoming freshmen students.
 Who are you?,I am a ChatBot running on Python and a dash of artificial intelligence.
 Hello,Hello World!
 Hi,Hello World!
@@ -33,31 +33,9 @@ Greetings,Hello World!
 Hey,Hello World!
 What's up?,Hello World!
 Who are you?,I am a Chatbot.
-What is your name?,ChatBot.
-1 + 1?,2
-add one to one,two
+What is your name?,LSPU Enrolment Bot
 "What motivated you to pursue a degree in Information Technology, and which specific fields within this domain fascinate you the most?",
 What prior exposure or understanding do you possess in computer programming or information technology?,
-What is your whole/full name?,Jobert Trilliana
-What is your whole/full name?,Reyvine Adellan
-What is your whole/full name?,Justine Jay Olivar
-"As an IT scholar, what are your objectives and anticipations for the initial year?",Enjoyment
-What your 1st Choice course?,Bachelor of Science in Information Technology
-What your 1st Choice course?,Bachelor of Science in Computer Science
-What your 1st Choice course?,Bachelor Of Science in Criminal Justice
-What is your preferred name or nickname?,Bert
-What is your preferred name or nickname?,Vine
-What is your preferred name or nickname?,Kian
-What is your date of birth?,"November 1, 2023"
-What is your gender/ gender preference?,Male
-What is your gender/ gender preference?,Female
-What is your gender/ gender preference?,Bisexual
-What is your address?,Santa Cruz Laguna
-What is your email address?,Trilliana@gmail.com
-What is your phone number?,0923-2132-342
-What is your citizenship status?,Single
-What is your citizenship status?,Marriage
-Are you a transfer student or a freshman?,No
 "Have you previously attended any other colleges or universities? If yes, please provide the details.","Yes, University of the Philippines"
 What is your intended major or field of study?,Field of Medicine
 What are your academic and career goals?,Masteral or PHD
@@ -86,8 +64,6 @@ Who do you consider a role model in your personal life?,"No because other person
 "Can you describe a challenge that you overcame? 
 ","I think Personal Loss ,Coping with the loss of a loved one, such as a family member, friend, or anything can
 be emotionally devastating.Grieving and finding ways to heal and move forward is a significant challenge"
-"What do you do for fun in your free time?
-","Playing RPG games and other mobile games, repairing gadgets."
 What are three adjectives to best describe you?,"Compassionate, Ambitious,Diligent"
 "Why are you interested in pursuing your major? ","Because in this course BS Information Technology major in Web application development IT helps to provide
 a platform for individuals to express the creativity through designing and building interactive and visually
@@ -99,12 +75,8 @@ and professional development"
 "Will you seek financial aid? ",no
 "What are your plans after you graduate college? ","To have a stable job and help my family.
 "
-"Where do you hope to be career-wise in 10 years?
-","In USA, because IT jobs in USA are in high demand.
-"
 "What are some academic goals you hope to accomplish in college? "," Master essential skills because in college they provides an excellent opportunity to acquire and develop"
 "What skills do you hope to develop in college? ",Programing
-Do you plan to participate in activities outside ,
 How can I ensure my child's safety on campus?,"Universities have dedicated security measures in place, such as surveillance systems, campus police, and emergency response protocols. Additionally, counseling services are available to support students' mental well-being."
 What are the housing options available for students?,Most universities offer on-campus dormitories or apartments for students to live in. These accommodations are typically supervised and provide a supportive community. Some universities also have partnerships with nearby off-campus housing providers.
 What financial aid opportunities are available for students?,"Universities often provide various financial aid options, including scholarships, grants, work-study programs, and student loans. Students can explore these options by contacting the university's financial aid office and completing the necessary application forms."

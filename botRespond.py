@@ -8,6 +8,7 @@ def similar(a, b):
 def getResponse(sendMsg):
     #return "You said: " + sendMsg
     #Loop through CSV knowledge file.  If a question is equal to or greater than the confidence level, add it to a list of possible responses. Then return a random responses
+    emptyCount = 0
     lineCount = 0
     successCount = 0
     exactCount = 0
